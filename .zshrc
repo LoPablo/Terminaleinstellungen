@@ -1,4 +1,4 @@
-~/.zsh/check-for-updates.sh
+
 
 PROMPT="%F{green}%B%n@%m%f:%F{blue}%~%f%b > "
 
